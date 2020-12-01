@@ -14,7 +14,7 @@ User can:
 > With the project, I learned redux and react-redux. In addition, the product slider > on sale was 100% with css, without adding external librarys. I also trained the > concepts of react-router-dom, clean code, component organization. 
 - **Redux**: it is a javascript library that allows the centralization of the states and logic (undo / redo) of your application.
 - **React-redux**: it is the official react bindings for Redux
-- **React-router-dom**: it is the official react bindings for Redux
+- **React-router-dom**: it is a react library that helps in navigation within the application, I had used and reinforced the Router, Switch, Route and Link concepts
 - **Component organization**: I created a concise folder structure, with separation between pages, components, routes and store (redux). 
 
 ### Runnin locally
