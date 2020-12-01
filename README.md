@@ -1,23 +1,22 @@
 # Game Store
----
 :video_game: A videogame store built with Redux and Redux-Saga
 
 ![](https://user-images.githubusercontent.com/68309624/100689173-b87ddd00-3362-11eb-9fa3-bd163acdcc1b.gif)
 
 ## Functionalities
 User can:
--Add a product to the shopping cart
--Remove a product from the shopping cart
--Change your profile information (name and address)
+- Add a product to the shopping cart
+- Remove a product from the shopping cart
+- Change your profile information (name and address)
 
 
 ## Learning and difficulties
 > With the project, I learned redux and react-redux. In addition, the product slider > on sale was 100% with css, without adding external librarys. I also trained the > concepts of clean code and component organization
-##### Redux
+### Redux
 Redux is a javascript library that allows the centralization of the states and logic (undo / redo) of your application.
-##### React-redux
+### React-redux
 It is the official react bindings for Redux
-##### Component organization
+### Component organization
 I created a concise folder structure, with separation between pages and components. 
 
 ### Runnin locally
