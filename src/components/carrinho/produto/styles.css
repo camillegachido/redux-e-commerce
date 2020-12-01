@@ -1,0 +1,30 @@
+.produto-carrinho{
+   display: grid;
+   grid-template-areas: "image infos infos infos" "button button button button";
+   width: 256px;
+   padding-bottom: 16px;
+   margin-bottom: 16px;
+   border-bottom: 1px solid #2e2e30;
+}
+
+.produto-carrinho img{
+   grid-area: image;
+   height: 56px;
+   width: 56px;
+   margin-right: 8px;
+}
+
+.produto-carrinho div{
+   grid-area: infos;
+   margin-bottom: 8px;
+}
+
+.produto-carrinho div p{
+   font-size: 12px;
+   line-height: 14px;
+}
+
+.produto-carrinho div p:first-child{
+   height: 42px;
+}
+

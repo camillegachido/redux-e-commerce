@@ -1,16 +1,16 @@
-import Header from './components/header';
-import Produto from './components/produto';
+import { Provider } from 'react-redux';
+import store from './store';
 
+import Routes from './routes';
+import './styles/index.css'
 
 function App() {
   return (
-    <div className="App">
-      <Header />
-      <Produto />
-      <Produto />
-      <Produto />
-      <Produto />
-    </div>
+      <div className="App">
+         <Provider store={store}>
+            <Routes />
+         </Provider>
+      </div>
   );
 }
 

@@ -1,0 +1,22 @@
+.adress h2{
+   font-size: 14px;
+}
+.adress p{
+   font-size: 14px;
+}
+
+.carrinho{
+   background-color: var(--primary-black);
+   box-shadow: 0px 2px 8px 2px rgba(0,0,0,0.18);
+   position: absolute;
+   top: 24px;
+   left: -128px;
+   display: none;
+   padding: 16px;
+   border-radius: 4px;
+   z-index: 5;
+}
+
+.carrinho:hover{
+   display: block !important;
+}
