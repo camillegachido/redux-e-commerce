@@ -26,7 +26,11 @@ $ yarn
 $ yarn start
 ```
 <br/>  
+
 ## License
+
 **Free Software, Hell Yeah!**
+
 <br/>
+
 Follow me on linked-in :smile: [Camille](https://www.linkedin.com/in/camille-gachido-b4809b1a4/)
