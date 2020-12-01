@@ -17,7 +17,6 @@ User can:
 - **React-router-dom**: it is a react library that helps in navigation within the application, I had used and reinforced the Router, Switch, Route and Link concepts
 - **Component organization**: I created a concise folder structure, with separation between pages, components, routes and store (redux). 
 
-<br />
 
 ## Running locally
 Requires [Node.js](https://nodejs.org/) v4+ to run and yarn.
@@ -27,7 +26,8 @@ Open your favorite Terminal and run these commands.
 $ yarn 
 $ yarn start
 ```
-<br/>  
+  
+<br/>
 
 ## License
 
