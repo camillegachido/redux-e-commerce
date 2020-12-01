@@ -1,5 +1,5 @@
 # Game Store
-:video_game: A videogame store built with Redux, React-redux and React-router-dom.
+:video_game: A videogame store built with React, Redux, React-redux and React-router-dom.
 
 ![](https://user-images.githubusercontent.com/68309624/100689173-b87ddd00-3362-11eb-9fa3-bd163acdcc1b.gif)
 
@@ -12,6 +12,7 @@ User can:
 
 ## Learning and difficulties
 > With the project, I learned redux and react-redux. In addition, the product slider > on sale was 100% with css, without adding external librarys. I also trained the > concepts of react-router-dom, clean code, component organization and markdown (exactly on this page :sweat_smile:)
+- **React**: it is an open source JavaScript library focused on creating user interfaces on web pages
 - **Redux**: it is a javascript library that allows the centralization of the states and logic (undo / redo) of your application.
 - **React-redux**: it is the official react bindings for Redux
 - **React-router-dom**: it is a react library that helps in navigation within the application, I had used and reinforced the Router, Switch, Route and Link concepts
