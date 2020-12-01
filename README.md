@@ -1,5 +1,5 @@
 # Game Store
-:video_game: A videogame store built with Redux and Redux-Saga
+:video_game: A videogame store built with Redux, React-redux and React-router-dom.
 
 ![](https://user-images.githubusercontent.com/68309624/100689173-b87ddd00-3362-11eb-9fa3-bd163acdcc1b.gif)
 
@@ -11,13 +11,11 @@ User can:
 
 
 ## Learning and difficulties
-> With the project, I learned redux and react-redux. In addition, the product slider > on sale was 100% with css, without adding external librarys. I also trained the > concepts of clean code and component organization
-### Redux
-Redux is a javascript library that allows the centralization of the states and logic (undo / redo) of your application.
-### React-redux
-It is the official react bindings for Redux
-### Component organization
-I created a concise folder structure, with separation between pages and components. 
+> With the project, I learned redux and react-redux. In addition, the product slider > on sale was 100% with css, without adding external librarys. I also trained the > concepts of react-router-dom, clean code, component organization. 
+- **Redux**: it is a javascript library that allows the centralization of the states and logic (undo / redo) of your application.
+- **React-redux**: it is the official react bindings for Redux
+- **React-router-dom**: it is the official react bindings for Redux
+- **Component organization**: I created a concise folder structure, with separation between pages, components, routes and store (redux). 
 
 ### Runnin locally
 Requires [Node.js](https://nodejs.org/) v4+ to run and yarn.
@@ -27,12 +25,12 @@ Open your favorite Terminal and run these commands.
 $ yarn 
 $ yarn start
 ```
-
-
+  
+  
 License
 
 
-
+  
 
 **Free Software, Hell Yeah!**
 
