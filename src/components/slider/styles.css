@@ -1,0 +1,49 @@
+.slider{
+   padding: 16px 32px;
+   background-color: var(--terciary-black);
+   border-radius: 4px;
+   position: relative;
+}
+
+.row-product {
+   overflow-x: hidden;
+   white-space: nowrap;
+}
+
+.arrow{
+   height: 32px;
+   width: 32px;
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   position: absolute;
+   top: 102px;
+   z-index: 2;
+   opacity: 0;
+}
+
+.arrow-left{
+   background-image: url("../../assets/mdi_chevron_left.svg");
+   left: 0px;
+}
+
+.arrow-right{
+   background-image: url("../../assets/mdi_chevron_right.svg");
+   left: 100%;
+   margin-left: -32px;
+}
+
+.row-product:hover .arrow{
+   opacity: 1;
+}
+
+#right-detail{
+   position: absolute;
+   top: 0px;
+   left: 100%;
+   z-index: 1;
+   height: 271px;
+   width: 32px;
+   margin-left: -32px;
+   background-color: var(--terciary-black);
+}

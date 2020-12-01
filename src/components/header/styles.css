@@ -1,0 +1,59 @@
+header{
+   background-color: var(--primary-black);
+   display: flex;
+   justify-content: space-between;
+   padding: 10px 30px;
+}
+
+header .logo{
+   color: var(--text-color);
+   font-size: 24px;
+}
+
+header .container-infos{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   color: var(--text-color);
+   position: relative;
+}
+
+header .bag{
+   border: 1px solid var(--text-color);
+   padding: 3px 6.2px;
+   display: flex;
+   align-items: center;
+   position: relative;
+   margin-left: 10px;
+}
+
+header .bag strong{
+   font-size: 10px;
+}
+
+header .bag strong::after{
+   content: "";
+   position: absolute;
+   border-top: 1px solid var(--text-color);
+   border-left: 1px solid var(--text-color);
+   border-right: 1px solid var(--text-color);
+   border-top-left-radius: 99px;
+   border-top-right-radius: 99px;
+   height: 6px;
+   width: 10px;
+   top: -6px;
+   left: 2.5px;
+}
+
+header .bag:hover{
+   cursor: pointer;
+}
+
+.bag:hover + .carrinho{
+   display: block !important;
+}
+
+span{
+   border-bottom: 1px solid var(--primary);
+   padding-bottom: 0.5px;
+}

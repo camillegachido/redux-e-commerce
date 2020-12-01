@@ -1,14 +1,22 @@
 import React from 'react';
+import { connect } from 'react-redux';
 
-// import { Container } from './styles';
+import * as shop from '../../store/shop/actions';
 
-function produto() {
-  return (
-    <article>
-        <h1>Oi</h1>
-        <button>+</button>
-    </article>
-    );
+import './styles.css';
+function produto({data, addToCar}) {
+   return (
+      <article className="product">
+         <img src={data.imgUrl} alt={data.name} />
+         <h2>{data.name}</h2>
+         <p>{data.price}</p>
+         <button onClick={() => addToCar(data)}>+</button>
+      </article>
+   );
 }
 
-export default produto;
+const mapDispatchToProps = dispatch => ({
+   addToCar: (data) => dispatch(shop.add_to_carshop(data))
+})
+
+export default connect(null, mapDispatchToProps)(produto);

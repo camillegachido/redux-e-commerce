@@ -1,14 +1,34 @@
-import React from 'react';
+import './styles.css';
+import { connect } from 'react-redux';
 
-// import { Container } from './styles';
+import Produto from './produto';
 
-function carrinho() {
-  return (
-        <div>
-            <p>produto 1</p>
-            <p>produto 2</p>
-        </div>
-    );
+function carrinho({ carshop, address }) {
+  return (      
+      carshop.length > 0 ? 
+         <div className="carrinho">
+            {carshop.map((product, index) => 
+               <Produto 
+                  data={product}
+                  index={index}
+                  key={"car"+product.name}
+               />
+            )}
+            <div className="adress">
+               <h2>Entregar em:</h2>
+               <p>{address.street + ", nº" + address.number}</p>
+               <p>{address.complement}</p>
+               <p>{"CEP: " +address.cep}</p>
+            </div>
+         </div>
+      :
+         <></>
+   );
 }
 
-export default carrinho;
+const mapStateToProps = state => ({
+   carshop: state.shop.carshop,
+   address: state.user.address
+})
+
+export default connect(mapStateToProps)(carrinho);
