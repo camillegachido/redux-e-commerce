@@ -100,6 +100,7 @@ https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitos-basicos/ (pt-BR)
 **Como funciona o React?** 
 
 https://app.rocketseat.com.br/starter - ES6, React (pt-BR)
+
 https://lab.irmaomaisvelho.com.br/ - From Zero to Hero: Netflix Clone (pt-BR)
 
 ### Redux and React-redux
