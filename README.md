@@ -12,7 +12,8 @@ Hello! Welcome to my GitHub, young developer! The main objective is our learning
 
 ![](https://user-images.githubusercontent.com/68309624/100689173-b87ddd00-3362-11eb-9fa3-bd163acdcc1b.gif)
 
-## Functionalities / Funcionalidades
+## Functionalities 
+## Funcionalidades
 User can:
 - Add a product to the shopping cart
 - Remove a product from the shopping cart
@@ -25,7 +26,8 @@ O usuário pode:
 
 <br />
 
-## Used technologies, learning and difficulties / Tecnologias usadas, aprendizados e dificuldades
+## Used technologies, learning and difficulties 
+## Tecnologias usadas, aprendizados e dificuldades
 > With the project, I learned redux and react-redux. In addition, the product slider (on sale) was 100% with css, without adding external librarys. I also trained the concepts of react-router-dom, clean code, component organization and markdown (exactly on this page :sweat_smile:)
 
 > Com o projeto, aprendi redux e react-redux. Além disso o "slider" de produtos (onde estão os prodtos em promoção) foi feito 100% com css, sem adição de bibliotecas externas. Eu também treinei os conceitos do react-router-dom, código limpo, organização de componentes e markdown (neste READ.ME aqui :sweat_smile:)
