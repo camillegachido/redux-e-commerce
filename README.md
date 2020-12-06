@@ -130,7 +130,9 @@ https://reactrouter.com/web/guides/quick-start - Official documentation / Docume
 ## License
 
 **Free Software, Hell Yeah!**
+**Uso livre!!**
 
 <br/>
 
 Follow me on linked-in :smile: [Camille](https://www.linkedin.com/in/camille-gachido-b4809b1a4/)
+Me siga no linked-in :smile: [Camille](https://www.linkedin.com/in/camille-gachido-b4809b1a4/)
