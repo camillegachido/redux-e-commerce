@@ -66,6 +66,7 @@ O usuário pode:
    
    -É uma bilioteca react que ajuda na navegação dentro da aplicação, eu usei e reforçei os conceitos de Router, Switch, Route e Link
 
+<br/>
 
 ## Running locally
 Requires [Node.js](https://nodejs.org/) v4+ to run and yarn.
@@ -98,13 +99,19 @@ https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitos-basicos/ (pt-BR)
 https://app.rocketseat.com.br/starter - ES6, React (pt-BR)
 https://lab.irmaomaisvelho.com.br/ - From Zero to Hero: Netflix Clone (pt-BR)
 
-### What it is Redux? And React-redux?
+### Redux and React-redux
 
-### O que é Redux? E React-redux?
+**What it is Redux? And React-redux?**
+
+**O que é Redux? E React-redux?**
 https://www.youtube.com/watch?v=u99tNt3TZf8&t=2646s - Desvendando o Redux na prática | Diego Fernandes, Rocketseat
 https://lab.irmaomaisvelho.com.br/ - Marketplace: Petfood, Irmão mais velho
 
 ### React-router-dom
+
+**What it is React-router-dom? How it works?**
+
+**O que é React-router-dom? Como ele funciona?**
 https://reactrouter.com/web/guides/quick-start - Official documentation / Documentação oficial
 
 <br />
