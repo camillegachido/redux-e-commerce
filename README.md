@@ -22,8 +22,9 @@ O usuário pode:
 - Adicionar um produto no carrinho de compras
 - Remover um produto do carrinho de compras
 - Alterar informações do perfil
- 
- 
+
+<br />
+
 ## Used technologies, learning and difficulties / Tecnologias usadas, aprendizados e dificuldades
 > With the project, I learned redux and react-redux. In addition, the product slider (on sale) was 100% with css, without adding external librarys. I also trained the concepts of react-router-dom, clean code, component organization and markdown (exactly on this page :sweat_smile:)
 
