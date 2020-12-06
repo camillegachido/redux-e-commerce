@@ -81,21 +81,26 @@ $ yarn start
 ### Markdown
 
 **What it is markdown?**
+
 **O que é markdown?**
 https://techterms.com/definition/markup_language#:~:text=A%20markup%20language%20is%20a,popular%20are%20HTML%20and%20XML. (en-US)
 https://www.google.com/search?q=markdown&oq=markdown&aqs=chrome.0.69i59l2j0i433j0l2j69i60j69i61j69i60.2376j0j7&sourceid=chrome&ie=UTF-8 (pt-BR)
 
-**What it is markup language** 
-**O que é linguagem de marcação** 
+**What it is markup language?** 
+
+**O que é linguagem de marcação?** 
 https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitos-basicos/ (pt-BR)
 
 ### React
 **How React works?** 
+
 **Como funciona o React?** 
 https://app.rocketseat.com.br/starter - ES6, React (pt-BR)
 https://lab.irmaomaisvelho.com.br/ - From Zero to Hero: Netflix Clone (pt-BR)
 
-### Redux, React-redux
+### What it is Redux? And React-redux?
+
+### O que é Redux? E React-redux?
 https://www.youtube.com/watch?v=u99tNt3TZf8&t=2646s - Desvendando o Redux na prática | Diego Fernandes, Rocketseat
 https://lab.irmaomaisvelho.com.br/ - Marketplace: Petfood, Irmão mais velho
 
