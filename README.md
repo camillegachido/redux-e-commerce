@@ -7,7 +7,8 @@ Hello! Welcome to my GitHub, young developer! The main objective is our learning
 <br />
 
 :video_game: A videogame store built with React, Redux, React-redux and React-router-dom.
-:video_game: Uma loja de vídeo gamges construida com React, Redux, React-redux e React-router-dom.
+
+:video_game: Uma loja de vídeo games construida com React, Redux, React-redux e React-router-dom.
 
 ![](https://user-images.githubusercontent.com/68309624/100689173-b87ddd00-3362-11eb-9fa3-bd163acdcc1b.gif)
 
@@ -28,15 +29,22 @@ O usuário pode:
 > Com o projeto, aprendi redux e react-redux. Além disso o "slider" de produtos (onde estão os prodtos em promoção) foi feito 100% com css, sem adição de bibliotecas externas. Eu também treinei os conceitos do react-router-dom, código limpo, organização de componentes e markdown (neste READ.ME aqui :sweat_smile:)
 - **Component organization**: 
    -I created a concise folder structure, with separation between pages, components, routes and store (redux concept)
+   
    -Eu criei uma estrutura de pastas concisa, com separação entre páginas, rotas e store (conceito do redux)
+   
 - **Markdown**: 
    -It is a simple markup language created by John Gruber and Aaron Swartz. Markdown converts your text to valid HTML
+   
    -Uma linguagem de marcação simples criado por John Gruber e Aaron Swartz. A linguagem converte texto em HTML
+   
 - **React**: 
    -It is an open source JavaScript library focused on creating user interfaces on web pages (front-end)
+   
    -Uma biblioteca de código aberto focada na criação de interfaces para a web (front-end)
+   
 - **Redux**: 
    -It is a javascript library that allows the centralization of the states and logic (undo / redo) of your application
+   
    -É uma biblioteca javascript que permite vocÊ centralizar os estados e lógicas da sua aplicação
    
 - **React-redux**: 
