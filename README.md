@@ -22,40 +22,47 @@ O usuário pode:
 - Adicionar um produto no carrinho de compras
 - Remover um produto do carrinho de compras
 - Alterar informações do perfil
-
-
+ 
+ 
 ## Used technologies, learning and difficulties / Tecnologias usadas, aprendizados e dificuldades
 > With the project, I learned redux and react-redux. In addition, the product slider (on sale) was 100% with css, without adding external librarys. I also trained the concepts of react-router-dom, clean code, component organization and markdown (exactly on this page :sweat_smile:)
 
 > Com o projeto, aprendi redux e react-redux. Além disso o "slider" de produtos (onde estão os prodtos em promoção) foi feito 100% com css, sem adição de bibliotecas externas. Eu também treinei os conceitos do react-router-dom, código limpo, organização de componentes e markdown (neste READ.ME aqui :sweat_smile:)
 
 - **Component organization**: 
+
    -I created a concise folder structure, with separation between pages, components, routes and store (redux concept)
    
    -Eu criei uma estrutura de pastas concisa, com separação entre páginas, rotas e store (conceito do redux)
    
 - **Markdown**: 
+
    -It is a simple markup language created by John Gruber and Aaron Swartz. Markdown converts your text to valid HTML
    
    -Uma linguagem de marcação simples criado por John Gruber e Aaron Swartz. A linguagem converte texto em HTML
    
 - **React**: 
+
    -It is an open source JavaScript library focused on creating user interfaces on web pages (front-end)
    
    -Uma biblioteca de código aberto focada na criação de interfaces para a web (front-end)
    
 - **Redux**: 
+
    -It is a javascript library that allows the centralization of the states and logic (undo / redo) of your application
    
    -É uma biblioteca javascript que permite vocÊ centralizar os estados e lógicas da sua aplicação
    
 - **React-redux**: 
+
    -It is the official React bindings for Redux
 	
    -É a biblioteca React oficial que faz ligação com o Redux
    
 - **React-router-dom**: 
+
    -It is a react library that helps in navigation within the application, I had used and reinforced the Router, Switch, Route and Link concepts
+   
    -É uma bilioteca react que ajuda na navegação dentro da aplicação, eu usei e reforçei os conceitos de Router, Switch, Route e Link
 
 
