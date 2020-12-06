@@ -68,9 +68,13 @@ O usuário pode:
 
 <br/>
 
-## Running locally
+## Running locally / Rodando localmente
 Requires [Node.js](https://nodejs.org/) v4+ to run and yarn.
 Open your favorite Terminal and run these commands.
+
+Requer [Node.js](https://nodejs.org/) v4+ e yarn para rodar.
+Abra seu terminal favorito e rode estes comandos.
+
 ```sh
 $ yarn 
 $ yarn start
