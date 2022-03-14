@@ -6,7 +6,6 @@ Hello! Welcome to my GitHub, young developer! The main objective is our learning
 Prefere ler em português? [Clique aqui](https://github.com/camillegachido/redux-e-commerce/blob/master/README.md)
 
 <br />
-
 :video_game: A videogame store built with React, Redux, React-redux and React-router-dom.
 
 ![](https://user-images.githubusercontent.com/68309624/100689173-b87ddd00-3362-11eb-9fa3-bd163acdcc1b.gif)
