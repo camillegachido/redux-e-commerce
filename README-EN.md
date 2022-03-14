@@ -2,11 +2,11 @@
 # Game Store
 Hello! Welcome to my GitHub, young developer! The main objective is our learning, please, read everything. Had any doubts? Send me a message on my LinkedIn (the link is on the end of the file) and I will try to help:smile:
 
-<br />
-Prefere ler em português? [Clique aqui](https://github.com/camillegachido/redux-e-commerce/blob/master/README.md/)
+<br/>
 
-<br />
+Prefere ler em português? :smile: [Clique aqui](https://github.com/camillegachido/redux-e-commerce/blob/master/README.md/)
 
+<br/>
 
 :video_game: A videogame store built with React, Redux, React-redux and React-router-dom.
 
