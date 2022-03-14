@@ -4,7 +4,7 @@ Hello! Welcome to my GitHub, young developer! The main objective is our learning
 
 <br/>
 
-Prefere ler em português? :smile: [Clique aqui](https://github.com/camillegachido/redux-e-commerce/blob/master/README.md/)
+Prefere ler em português?  [Clique aqui](https://github.com/camillegachido/redux-e-commerce/blob/master/README.md/)
 
 <br/>
 
