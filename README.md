@@ -1,6 +1,6 @@
 
 # Game Store
-Olá! Bem vindo ao meu GitHub, jovem dev! O intuito aqui é aprendermos juntos, por favor, leia até o final. Ficou com alguma dúdiva? Não tem problema! Coloquei links para possíveis perguntas que possam surgir. A dúvida persistiu? Só chamar no meu LinkedIn (o link está no final da página) e farei o possível para ajudar:smile:
+Olá! Bem vindo ao meu GitHub, dev! O intuito aqui é aprendermos juntos, por favor, leia até o final. Ficou com alguma dúdiva? Não tem problema! Coloquei links para possíveis perguntas que possam surgir. A dúvida persistiu? Só chamar no meu LinkedIn (o link está no final da página) e farei o possível para ajudar:smile:
 
 <br/>
 
